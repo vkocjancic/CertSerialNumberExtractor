@@ -1,0 +1,4 @@
+G:\work\privat\CertSerialNumberExtractor\CertSerialNumberExtractor.Library\bin\Debug\CertSerialNumberExtractor.Library.dll
+G:\work\privat\CertSerialNumberExtractor\CertSerialNumberExtractor.Library\bin\Debug\CertSerialNumberExtractor.Library.pdb
+G:\work\privat\CertSerialNumberExtractor\CertSerialNumberExtractor.Library\obj\Debug\CertSerialNumberExtractor.Library.dll
+G:\work\privat\CertSerialNumberExtractor\CertSerialNumberExtractor.Library\obj\Debug\CertSerialNumberExtractor.Library.pdb
